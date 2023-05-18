@@ -17,7 +17,3 @@ Working with datasets (21,000 properties for sale in Mexico & 12,800 in Brazil) 
 * Pandas
 * Matplotlib
 * Plotly Express
-
-## Featured Notebooks
-* [Mexico](https://dpghazi.github.io/projects/exploring-property-prices-in-mexico.html)
-* [Brazil](https://dpghazi.github.io/projects/exploring-property-prices-in-brazil.html)

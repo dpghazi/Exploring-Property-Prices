@@ -12,8 +12,4 @@ Working with datasets (21,000 properties for sale in Mexico & 12,800 in Brazil) 
 * Numerical data summarization
 
 ### Tools & Libraries 
-* Python
-* Jupyter
-* Pandas
-* Matplotlib
-* Plotly Express
+* Python (Pandas, Matplotlib, Plotly)

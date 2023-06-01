@@ -13,3 +13,7 @@ Working with datasets (21,000 properties for sale in Mexico & 12,800 in Brazil) 
 
 ### Tools & Libraries 
 * Python (Pandas, Matplotlib, Plotly)
+
+### Featured Notebooks
+* [Mexico](https://dpghazi-wqu-ds.s3.amazonaws.com/exploring-property-prices-in-brazil.html)
+* [Brazil](https://dpghazi-wqu-ds.s3.amazonaws.com/exploring-property-prices-in-brazil.html)
